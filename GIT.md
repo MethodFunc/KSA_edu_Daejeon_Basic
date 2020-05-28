@@ -43,3 +43,4 @@
 > - git clone -> git add -> git commit -> git push
 > > - 후에 pull과 add -> commit -> push 반복 
 
+이 후 필요 내용은 추가적으로 업데이트 예정입니다.
