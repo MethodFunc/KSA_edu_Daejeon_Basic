@@ -12,5 +12,4 @@ keys = ['지역','총인구수','세대수', '세대당_인구', '남자_인구�
 
 md.get_dict(list_data, keys, dict_data)
 
-frame = pd.DataFrame(dict_data)
-print(frame)
+pd.pop
